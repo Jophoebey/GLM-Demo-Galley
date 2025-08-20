@@ -14,6 +14,21 @@ GLM-Demo-Galley 是一个汇集基于 GLM 系列大模型衍生的精彩作品�
     * 项目名称
     * 团队成员/个人信息
     * 项目简介（解决什么问题？）
-    * 核心功能及技术实现（如何使用 GLM-4.5V 多模态模型？）
-    * **可演示的 Demo 链接**（例如：Dify 分享链接、网站链接等）
+    * 核心功能及技术实现（如何使用 GLM-4.5V 多模态模型或者其他模型解决问题？）
+    * 可演示的 Demo 链接**（例如：Dify 分享链接、网站链接等）
+5.  **提交 Pull Request (PR)**：完成以上步骤后，在你的仓库页面发起一个 **Pull Request**，目标分支为本仓库的 `main` 分支。
+
+## 项目文件夹结构示例
+/
+├── projects/
+│   ├── team-super-ai/
+│   │   ├── README.md  <-- 必须包含，项目说明文件
+│   │   ├── demo_code.py
+│   │   ├── requirements.txt
+│   │   └── screenshot.png
+│   └── team-innovators/
+│       └── ...
+└── README.md
+
+
 祝大家创作愉快，期待看到你们的精彩作品！
